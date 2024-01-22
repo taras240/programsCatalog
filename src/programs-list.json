@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Notepad++",
+        "preview": "notepad.png",
+        "description": "Текстовий редактор / оф.сторінка",
+        "links": [
+            "https://notepad-plus-plus.org/downloads/"
+        ]
+    },
+    {
+        "name": "VisualStudio Code",
+        "preview": "visual_studio_code.png",
+        "description": "Текстовий редактор / програмування",
+        "links": [
+            "https://code.visualstudio.com/download"
+        ]
+    },
+    {
+        "name": "Chrome",
+        "preview": "chrome-logo-m100.svg",
+        "description": "Браузер",
+        "links": [
+            "https://www.google.com/intl/uk_ua/chrome/"
+        ]
+    },
+    {
+        "name": "Deluge",
+        "preview": "deluge_logo.png",
+        "description": "Торрент клієнт",
+        "links": [
+            "https://dev.deluge-torrent.org/wiki/Download"
+        ]
+    },
+    {
+        "name": "Steam",
+        "preview": "steam_logo.webp",
+        "description": "Ігри",
+        "links": [
+            "https://store.steampowered.com/about/"
+        ]
+    },
+    {
+        "name": "Telegram",
+        "preview": "telegram.png",
+        "description": "Меседжер",
+        "links": [
+            "https://desktop.telegram.org/?setln=en"
+        ]
+    },
+    {
+        "name": "Spotify",
+        "preview": "spotify.png",
+        "description": "Музика",
+        "links": [
+            "https://open.spotify.com/"
+        ]
+    },
+    {
+        "name": "KMS Auto",
+        "preview": "kms.png",
+        "description": "Активатор Windows, Office",
+        "links": [
+            "https://myfreeproject.com/soft/81-kmsauto-net-2016.html"
+        ]
+    },
+    {
+        "name": "WinAeroTweaker",
+        "preview": "WinaeroT.png",
+        "description": "Додаткові настройки Windows",
+        "links": [
+            "https://winaero.com/winaero-tweaker/"
+        ]
+    },
+    {
+        "name": "FanControl",
+        "preview": "fanControl.webp",
+        "description": "Настройки вентиляторів",
+        "links": [
+            "https://getfancontrol.com/"
+        ]
+    },
+    {
+        "name": "Volume2",
+        "preview": "volume2.png",
+        "description": "Регулювання гучності, індикатор",
+        "links": [
+            "https://irzyxa.blogspot.com/"
+        ]
+    },
+    {
+        "name": "Movavi Video Editor",
+        "preview": "movavi.png",
+        "description": "Редактор відео, конвертер",
+        "links": [
+            "magnet:?xt=urn:btih:8b0ebc96950e8013eb7429f82b20b5ddab3c1652&dn=rutor.info_Movavi+Video+Editor+23.3.0+%282022%29+PC+%7C+RePack+%26+Portable+by+elchupacabra&tr=udp://opentor.net:6969&tr=http://retracker.local/announce"
+        ]
+    },
+    {
+        "name": "CCleaner",
+        "preview": "CCleaner_logo.png",
+        "description": "Очистка системи",
+        "links": [
+            "https://www.ccleaner.com/"
+        ]
+    },
+    {
+        "name": "Rufus",
+        "preview": "rufus-128.png",
+        "description": "Створення установочної флешки",
+        "links": [
+            "https://rufus.ie/uk/"
+        ]
+    },
+    {
+        "name": "WinRar",
+        "preview": "winrar.png",
+        "description": "Архіватор",
+        "links": [
+            "https://www.softportal.com/getsoft-152-winrar-2.html"
+        ]
+    },
+    {
+        "name": "OBS Studio",
+        "preview": "obs.png",
+        "description": "Стрім, запис екрана",
+        "links": [
+            "https://obsproject.com/download"
+        ]
+    }
+]
